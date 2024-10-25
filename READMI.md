@@ -1,5 +1,10 @@
 # food puquio
 ![alt text](image-1.png)
+
+
+
+
+
 https://www.figma.com/proto/ZarXDCJK862vpi7mf0isl7/comida?node-id=175-622&node-type=canvas&t=gr4gdDyz5AlR8FUo-1&scaling=scale-down&content-scaling=fixed&page-id=18%3A83
 Una app de comida puede servir para varios propósitos, que mejoran la experiencia de los usuarios y optimizan el proceso de compra y consumo de alimentos. 
 ## casos de usos
@@ -43,18 +48,28 @@ En resumen, una app de comida no solo simplifica el proceso de pedir y recibir a
 ## Tecnologias de uso para hacer la app
 - FIGMA 
   ayuda a los equipos de diseño y desarrollo a crear mejores conjunto de productos
+  
+  
   ![alt text](image-9.png)
 - CANVA 
   es un documento fácil de entender que te ayudará a explicar tu negocio implicados a modelo de todos los Canva 
+  
+  
   ![alt text](image-5.png)
 - EXCEL EN GOOGLE DRIVE 
   es una plataforma de diseño y comunicación visual
+  
+  
   ![alt text](image-7.png)
 - DISCORD 
   Es una plataforma para que personas con intereses similares compartan y se comuniquen 
+  
+  
   ![alt text](image-11.png)
 - NOTION 
   Tomar notas, planificar, gestionar, organizar proyectos e información hasta crear tableros de inspiración
+  
+  
   ![alt text](image-10.png)
 ## Arquitectura
 Tu app de comida utiliza la metodología Modelo-Vista-Controlador (MVC) por que optimizan su desarrollo y funcionamiento. 
@@ -103,3 +118,7 @@ En resumen, Lean es un enfoque sistemático para optimizar procesos y satisfacer
 ![alt text](image-8.png)
 ## LINKS
 https://discord.gg/UNtdXNFe
+
+
+
+
